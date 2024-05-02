@@ -2235,7 +2235,7 @@ ul {
 
 .main-slider__sub-title {
   font-size: 14px;
-  color: var(--ambed-base, #a47c68);
+  color: white;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.2em;
